@@ -1,16 +1,12 @@
 <h1 align="center">नमस्ते (Namaste), Karmanya Pandey</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **building Backend**
-
-- 🌱 I’m currently learning **Express.js, Node.js and MongoDb.**
-
 - 📫 How to reach me **karmanyapandey348@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karmanya pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karmanya pandey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karmanyapandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karmanyapandey" height="30" width="40" /></a>
+<a href="https://instagram.com/karmany.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karmany.aa" height="30" width="40" /></a>
 <a href="https://discord.gg/#8591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8591" height="30" width="40" /></a>
 </p>
 
