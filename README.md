@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste),I am Karmanya Pandey</h1>
+<h1 align="center">नमस्ते (Namaste), I am Karmanya Pandey</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - “Currently bossing around Node.js, Express.js, and MongoDB — making servers behave since… well, today.”
