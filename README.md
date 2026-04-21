@@ -1,5 +1,5 @@
 <h1 align="center">नमस्ते (Namaste), I am Karmanya Pandey</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 “Currently bossing around Node.js, Express.js, and MongoDB — making servers behave since… well, today.”
